@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-5f7b94bb\",\"path\":\"/view/tool/nginx/\",\"title\":\"nginx\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1679367364000},\"filePathRelative\":\"view/tool/nginx/README.md\"}")

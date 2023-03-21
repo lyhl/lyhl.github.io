@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-25ea1103\",\"path\":\"/view/tool/git/\",\"title\":\"git\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"删除git仓库\",\"slug\":\"删除git仓库\",\"link\":\"#删除git仓库\",\"children\":[]}],\"git\":{\"updatedTime\":1679367718000},\"filePathRelative\":\"view/tool/git/README.md\"}")

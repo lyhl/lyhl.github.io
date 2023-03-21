@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-768ce768\",\"path\":\"/view/be/mysql/\",\"title\":\"mysql\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1679367364000},\"filePathRelative\":\"view/be/mysql/README.md\"}")

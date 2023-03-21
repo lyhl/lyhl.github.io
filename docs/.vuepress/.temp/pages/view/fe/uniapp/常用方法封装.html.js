@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-f3bbda30\",\"path\":\"/view/fe/uniapp/%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E5%B0%81%E8%A3%85.html\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1679367364000},\"filePathRelative\":\"view/fe/uniapp/常用方法封装.md\"}")

@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-0fd83c12\",\"path\":\"/view/be/php/\",\"title\":\"php\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1679367364000},\"filePathRelative\":\"view/be/php/README.md\"}")
