@@ -3,6 +3,8 @@ export const pagesData = {
   "v-6ce48554": () => import(/* webpackChunkName: "v-6ce48554" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/contributing.html.js").then(({ data }) => data),
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /about/
+  "v-74bc627b": () => import(/* webpackChunkName: "v-74bc627b" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/about/index.html.js").then(({ data }) => data),
   // path: /view/be/go/
   "v-320f1a8c": () => import(/* webpackChunkName: "v-320f1a8c" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/view/be/go/index.html.js").then(({ data }) => data),
   // path: /view/be/java/
@@ -17,10 +19,10 @@ export const pagesData = {
   "v-0c666ad0": () => import(/* webpackChunkName: "v-0c666ad0" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/view/be/python/index.html.js").then(({ data }) => data),
   // path: /view/book/book/
   "v-35041951": () => import(/* webpackChunkName: "v-35041951" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/view/book/book/index.html.js").then(({ data }) => data),
-  // path: /view/fe/angular/
-  "v-21cfd26c": () => import(/* webpackChunkName: "v-21cfd26c" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/view/fe/angular/index.html.js").then(({ data }) => data),
   // path: /view/fe/react/
   "v-61f6b3a2": () => import(/* webpackChunkName: "v-61f6b3a2" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/view/fe/react/index.html.js").then(({ data }) => data),
+  // path: /view/fe/angular/
+  "v-21cfd26c": () => import(/* webpackChunkName: "v-21cfd26c" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/view/fe/angular/index.html.js").then(({ data }) => data),
   // path: /view/fe/uniapp/
   "v-7fe38942": () => import(/* webpackChunkName: "v-7fe38942" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/view/fe/uniapp/index.html.js").then(({ data }) => data),
   // path: /view/fe/uniapp/scroll-view%E7%BB%84%E4%BB%B6%E7%82%B9%E5%87%BB%E5%85%83%E7%B4%A0%E5%B1%85%E4%B8%AD%E6%98%BE%E7%A4%BA.html

@@ -48,5 +48,9 @@ export default
       children: [
         { text: '电子书', link: '/view/book/book/' },
       ],
+    },
+    {
+      text: '关于我',
+      link:'/about/'
     }
   ]

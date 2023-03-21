@@ -1,6 +1,7 @@
 export const pagesRoutes = [
   ["v-6ce48554","/contributing.html",{"title":""},["/contributing","/contributing.md"]],
-  ["v-8daa1a0e","/",{"title":""},["/index.html","/README.md"]],
+  ["v-8daa1a0e","/",{"title":"lyh"},["/index.html","/README.md"]],
+  ["v-74bc627b","/about/",{"title":"about"},["/about/index.html","/about/README.md"]],
   ["v-320f1a8c","/view/be/go/",{"title":"go"},["/view/be/go/index.html","/view/be/go/README.md"]],
   ["v-2a50b15c","/view/be/java/",{"title":"java"},["/view/be/java/index.html","/view/be/java/README.md"]],
   ["v-768ce768","/view/be/mysql/",{"title":"mysql"},["/view/be/mysql/index.html","/view/be/mysql/README.md"]],
@@ -8,8 +9,8 @@ export const pagesRoutes = [
   ["v-0fd83c12","/view/be/php/",{"title":"php"},["/view/be/php/index.html","/view/be/php/README.md"]],
   ["v-0c666ad0","/view/be/python/",{"title":"python"},["/view/be/python/index.html","/view/be/python/README.md"]],
   ["v-35041951","/view/book/book/",{"title":"书"},["/view/book/book/index.html","/view/book/book/README.md"]],
-  ["v-21cfd26c","/view/fe/angular/",{"title":""},["/view/fe/angular/index.html","/view/fe/angular/README.md"]],
   ["v-61f6b3a2","/view/fe/react/",{"title":"react"},["/view/fe/react/index.html","/view/fe/react/README.md"]],
+  ["v-21cfd26c","/view/fe/angular/",{"title":""},["/view/fe/angular/index.html","/view/fe/angular/README.md"]],
   ["v-7fe38942","/view/fe/uniapp/",{"title":"uniapp"},["/view/fe/uniapp/index.html","/view/fe/uniapp/README.md"]],
   ["v-4f42d058","/view/fe/uniapp/scroll-view%E7%BB%84%E4%BB%B6%E7%82%B9%E5%87%BB%E5%85%83%E7%B4%A0%E5%B1%85%E4%B8%AD%E6%98%BE%E7%A4%BA.html",{"title":""},["/view/fe/uniapp/scroll-view组件点击元素居中显示.html","/view/fe/uniapp/scroll-view%E7%BB%84%E4%BB%B6%E7%82%B9%E5%87%BB%E5%85%83%E7%B4%A0%E5%B1%85%E4%B8%AD%E6%98%BE%E7%A4%BA","/view/fe/uniapp/scroll-view组件点击元素居中显示.md","/view/fe/uniapp/scroll-view%E7%BB%84%E4%BB%B6%E7%82%B9%E5%87%BB%E5%85%83%E7%B4%A0%E5%B1%85%E4%B8%AD%E6%98%BE%E7%A4%BA.md"]],
   ["v-f3bbda30","/view/fe/uniapp/%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E5%B0%81%E8%A3%85.html",{"title":""},["/view/fe/uniapp/常用方法封装.html","/view/fe/uniapp/%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E5%B0%81%E8%A3%85","/view/fe/uniapp/常用方法封装.md","/view/fe/uniapp/%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E5%B0%81%E8%A3%85.md"]],

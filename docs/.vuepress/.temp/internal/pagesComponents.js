@@ -5,6 +5,8 @@ export const pagesComponents = {
   "v-6ce48554": defineAsyncComponent(() => import(/* webpackChunkName: "v-6ce48554" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/contributing.html.vue")),
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/index.html.vue")),
+  // path: /about/
+  "v-74bc627b": defineAsyncComponent(() => import(/* webpackChunkName: "v-74bc627b" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/about/index.html.vue")),
   // path: /view/be/go/
   "v-320f1a8c": defineAsyncComponent(() => import(/* webpackChunkName: "v-320f1a8c" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/view/be/go/index.html.vue")),
   // path: /view/be/java/
@@ -19,10 +21,10 @@ export const pagesComponents = {
   "v-0c666ad0": defineAsyncComponent(() => import(/* webpackChunkName: "v-0c666ad0" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/view/be/python/index.html.vue")),
   // path: /view/book/book/
   "v-35041951": defineAsyncComponent(() => import(/* webpackChunkName: "v-35041951" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/view/book/book/index.html.vue")),
-  // path: /view/fe/angular/
-  "v-21cfd26c": defineAsyncComponent(() => import(/* webpackChunkName: "v-21cfd26c" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/view/fe/angular/index.html.vue")),
   // path: /view/fe/react/
   "v-61f6b3a2": defineAsyncComponent(() => import(/* webpackChunkName: "v-61f6b3a2" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/view/fe/react/index.html.vue")),
+  // path: /view/fe/angular/
+  "v-21cfd26c": defineAsyncComponent(() => import(/* webpackChunkName: "v-21cfd26c" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/view/fe/angular/index.html.vue")),
   // path: /view/fe/uniapp/
   "v-7fe38942": defineAsyncComponent(() => import(/* webpackChunkName: "v-7fe38942" */"E:/workspace/vuepress-starter/docs/.vuepress/.temp/pages/view/fe/uniapp/index.html.vue")),
   // path: /view/fe/uniapp/scroll-view%E7%BB%84%E4%BB%B6%E7%82%B9%E5%87%BB%E5%85%83%E7%B4%A0%E5%B1%85%E4%B8%AD%E6%98%BE%E7%A4%BA.html

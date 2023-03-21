@@ -1,1 +1,0 @@
-import{_ as t,p as a,q as n,R as e,t as s}from"./framework-efe98465.js";const c={},o=e("h1",{id:"java",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#java","aria-hidden":"true"},"#"),s(" java")],-1),r=e("p",null,"教程 https://how2j.cn/",-1),_=[o,r];function d(i,h){return a(),n("div",null,_)}const f=t(c,[["render",d],["__file","index.html.vue"]]);export{f as default};

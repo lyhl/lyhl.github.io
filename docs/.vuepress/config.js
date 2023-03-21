@@ -5,7 +5,6 @@ import plugins from './config/plugins'
 
 export default defineUserConfig({
   lang: 'zh-CN',
-  title: 'L',
   plugins: plugins,
   theme: defaultTheme({
     // 在这里进行配置

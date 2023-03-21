@@ -7,9 +7,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "",
+    "title": "lyh",
     "headers": [],
     "path": "/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "about",
+    "headers": [],
+    "path": "/about/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -63,16 +70,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "",
+    "title": "react",
     "headers": [],
-    "path": "/view/fe/angular/",
+    "path": "/view/fe/react/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "react",
+    "title": "",
     "headers": [],
-    "path": "/view/fe/react/",
+    "path": "/view/fe/angular/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -211,3 +218,16 @@ export const searchIndex = [
     "extraFields": []
   }
 ]
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ searchIndex }) => {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  })
+}

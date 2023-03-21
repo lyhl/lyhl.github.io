@@ -1,1 +1,0 @@
-import{_ as t,p as e,q as n,R as c}from"./framework-efe98465.js";const o={},_=c("p",null,"contributing.md",-1),r=[_];function s(i,a){return e(),n("div",null,r)}const u=t(o,[["render",s],["__file","contributing.html.vue"]]);export{u as default};
