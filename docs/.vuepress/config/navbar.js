@@ -35,6 +35,7 @@ export default
         { text: 'nginx', link: '/view/tool/nginx/' },
         { text: 'redis', link: '/view/tool/redis/' },
         { text: '脚本', link: '/view/tool/script/' },
+        { text: 'webpack', link: '/view/tool/webpack/' },
 
       ],
     },
