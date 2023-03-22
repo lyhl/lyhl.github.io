@@ -1,4 +1,6 @@
 'node_modules' 
-'.temp' 
 node_modules
 .history
+docs
+docs/.vuepress/.temp/*
+docs/.vuepress/dist/

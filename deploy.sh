@@ -8,6 +8,6 @@ git init
 git add -A
 git commit -m 'deoloy'
 
-git push -f https://github.com/lyhl/.github.io.git master:gh-pages
+git push -f https://gitee.com/lyh_ma/lyh.gitee.io.git master:gh-pages
 
 cd-
