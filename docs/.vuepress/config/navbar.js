@@ -11,6 +11,7 @@ export default
         { text: 'vue', link: '/view/fe/vue/' },
         { text: 'angular', link: '/view/fe/angular/' },
         { text: 'uniapp', link: '/view/fe/uniapp/' },
+        { text: 'electron', link: '/view/fe/electron/' },
       ],
     },
     {
