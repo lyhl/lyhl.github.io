@@ -1,6 +1,5 @@
 'node_modules' 
 node_modules
 .history
-docs
 docs/.vuepress/.temp/
 docs/.vuepress/dist/
