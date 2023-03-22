@@ -37,8 +37,6 @@ jobs:
       - name: Build VuePress site
         run: pnpm docs:build
 
-      - name: Copy CNAME file
-        run: cp .vuepress/public/CNAME .vuepress/dist/
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
       - name: Deploy to GitHub Pages
@@ -51,10 +49,3 @@ jobs:
         env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            
-       - name: Set custom domain
-         uses: peter-evans/repository-dispatch@v1
-         with:
-           token: ${{ secrets.GITHUB_TOKEN }}
-           event-type: set-custom-domain
-           client-payload: '{ "domain": "lyuhan.cn" }'
