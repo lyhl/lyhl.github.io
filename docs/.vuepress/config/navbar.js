@@ -34,6 +34,8 @@ export default
         { text: 'git', link: '/view/tool/git/' },
         { text: 'nginx', link: '/view/tool/nginx/' },
         { text: 'redis', link: '/view/tool/redis/' },
+        { text: '脚本', link: '/view/tool/script/' },
+
       ],
     },
     {
