@@ -1,8 +1,8 @@
-# 提交并推送
-python .\\generating-path.py
+# 生产侧边栏
+python .\\generating-path.py 
 msg=$1
 if [ -n "$msg" ]; then
-    
+    # 提交并推送
     gss
     git add .
     git commit -m "${msg}"
