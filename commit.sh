@@ -1,4 +1,4 @@
-# 生产侧边栏
+# 生成侧边栏
 python .\\generating-path.py 
 msg=$1
 if [ -n "$msg" ]; then
