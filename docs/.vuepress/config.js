@@ -12,6 +12,7 @@ export default defineUserConfig({
     sidebar: sidebar,
     // lastUpdatedText: '最后更新于',
     // contributorsText: '',
+    lastUpdated:false,
     contributors: false,
     activeHeaderLinks: true,
   }),
