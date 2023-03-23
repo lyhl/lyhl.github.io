@@ -10,8 +10,8 @@ export default defineUserConfig({
     // 在这里进行配置
     navbar: navbar,
     sidebar: sidebar,
-    lastUpdatedText: '最后更新于',
-    contributorsText: '',
+    // lastUpdatedText: '最后更新于',
+    // contributorsText: '',
     contributors: false,
     activeHeaderLinks: true,
   }),
