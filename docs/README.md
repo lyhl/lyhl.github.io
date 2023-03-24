@@ -3,7 +3,7 @@ home: true
 lang: zh-CN
 title: lyh
 heroText: null
-heroImage: /images/hero.jpg
-tagline: 每一个不曾起舞的日子都是对生命的辜负
+heroImage: /images/hero.jpeg
+tagline: 天行健，君子以自强不息
 ---
 
