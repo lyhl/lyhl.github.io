@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1c80b9e6","path":"/view/utils/javascript/%E9%98%B2%E6%8A%96.html","title":"防抖函数","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"封装函数","slug":"封装函数","link":"#封装函数","children":[]}],"git":{"updatedTime":1679461434000},"filePathRelative":"view/utils/javascript/防抖.md"}');export{t as data};

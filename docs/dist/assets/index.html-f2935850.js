@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-dbc17ec4","path":"/view/tool/script/","title":"脚本语言","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1679464079000},"filePathRelative":"view/tool/script/README.md"}');export{t as data};

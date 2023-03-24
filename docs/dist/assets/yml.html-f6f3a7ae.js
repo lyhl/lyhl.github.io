@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-08d452c2","path":"/view/tool/script/yml.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1679464079000},"filePathRelative":"view/tool/script/yml.md"}');export{t as data};

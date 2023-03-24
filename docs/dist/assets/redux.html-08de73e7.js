@@ -1,0 +1,1 @@
+import{_ as r,p as t,q as a,R as e,t as c}from"./framework-efe98465.js";const d={},s=e("h1",{id:"redux",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#redux","aria-hidden":"true"},"#"),c(" redux")],-1),o=[s];function n(_,i){return t(),a("div",null,o)}const h=r(d,[["render",n],["__file","redux.html.vue"]]);export{h as default};

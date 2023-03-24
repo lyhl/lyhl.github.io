@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0fd83c12","path":"/view/be/php/","title":"php","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1679370276000},"filePathRelative":"view/be/php/README.md"}');export{e as data};
