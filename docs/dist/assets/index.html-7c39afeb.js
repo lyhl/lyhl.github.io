@@ -1,1 +1,0 @@
-import{_ as a,p as t,q as n,R as e,t as c}from"./framework-efe98465.js";const r={},s=e("h1",{id:"uniapp",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#uniapp","aria-hidden":"true"},"#"),c(" uniapp")],-1),o=[s];function i(_,d){return t(),n("div",null,o)}const h=a(r,[["render",i],["__file","index.html.vue"]]);export{h as default};

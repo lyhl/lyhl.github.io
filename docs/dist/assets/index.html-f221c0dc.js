@@ -1,1 +1,0 @@
-import{_ as t,p as a,q as c,R as e,t as n}from"./framework-efe98465.js";const r={},s=e("h1",{id:"php",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#php","aria-hidden":"true"},"#"),n(" php")],-1),o=[s];function _(d,h){return a(),c("div",null,o)}const p=t(r,[["render",_],["__file","index.html.vue"]]);export{p as default};

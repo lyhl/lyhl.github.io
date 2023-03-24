@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-3936cc82","path":"/view/tool/script/bat.html","title":"bat","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1679464079000},"filePathRelative":"view/tool/script/bat.md"}');export{t as data};
