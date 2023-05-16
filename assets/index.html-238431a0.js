@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-251efd6a","path":"/view/frame/uniapp/","title":"uniapp","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"view/frame/uniapp/README.md"}');export{a as data};

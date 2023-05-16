@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6973338f","path":"/view/pl/mysql/","title":"mysql","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"安装","slug":"安装","link":"#安装","children":[]}],"git":{},"filePathRelative":"view/pl/mysql/README.md"}');export{e as data};

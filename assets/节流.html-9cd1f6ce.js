@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6806beb4","path":"/view/pl/javascript/%E8%8A%82%E6%B5%81.html","title":"节流","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"封装函数","slug":"封装函数","link":"#封装函数","children":[]}],"git":{},"filePathRelative":"view/pl/javascript/节流.md"}');export{e as data};

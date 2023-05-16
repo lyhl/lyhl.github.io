@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6067ba32","path":"/view/frame/express/","title":"express","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"view/frame/express/README.md"}');export{e as data};

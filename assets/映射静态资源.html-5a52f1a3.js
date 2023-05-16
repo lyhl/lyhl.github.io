@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e3728618","path":"/view/frame/express/%E6%98%A0%E5%B0%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90.html","title":"映射静态资源","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"view/frame/express/映射静态资源.md"}');export{e as data};

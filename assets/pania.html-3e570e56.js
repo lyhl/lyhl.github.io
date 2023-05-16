@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6a3b28e0","path":"/view/frame/vue/pania.html","title":"pinia","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"持久化存储","slug":"持久化存储","link":"#持久化存储","children":[]}],"git":{},"filePathRelative":"view/frame/vue/pania.md"}');export{e as data};

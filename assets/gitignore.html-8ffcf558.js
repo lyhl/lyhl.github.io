@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a4ff4210","path":"/view/tool/git/gitignore.html","title":"忽略文件","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"view/tool/git/gitignore.md"}');export{t as data};

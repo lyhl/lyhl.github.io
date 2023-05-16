@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-261148a9","path":"/view/frame/uniapp/%E9%98%BB%E6%AD%A2%E9%A1%B5%E9%9D%A2%E9%BB%98%E8%AE%A4%E8%BF%94%E5%9B%9E.html","title":"阻止页面默认返回(app端)","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"view/frame/uniapp/阻止页面默认返回.md"}');export{a as data};
