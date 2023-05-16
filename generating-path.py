@@ -2,8 +2,10 @@ import os
 
 # 运行生产侧边栏的路径
 path = {}
-listdir = 'E:\\workspace\\vuepress-starter\\docs\\view'
-sidebar = "E:\\workspace\\vuepress-starter\\docs\\.vuepress\\config\\sidebar.js"
+# listdir = 'E:\\workspace\\vuepress-starter\\docs\\view'
+# sidebar = "E:\\workspace\\vuepress-starter\\docs\\.vuepress\\config\\sidebar.js"
+listdir = 'D:\\workspace\\test\\vuepress\\docs\\view'
+sidebar = "D:\\workspace\\test\\vuepress\\docs\\.vuepress\\config\\sidebar.js"
 
 
 def generating_Path():
